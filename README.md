@@ -6,13 +6,13 @@
   <img src="https://raw.githubusercontent.com/Peter19191/MSC-2025-1/main/471be748-ca46-4d68-9cbf-d7cc1a369c3e.jfif" width="200" style="border-radius: 10px; margin-right: 20px;" align="left">
 </div>  
 
-### 🚀 Sobre este repositorio  
+### 🔬 Sobre este repositorio  
 Bienvenidos a este espacio donde encontraremos material, tareas y recursos sobre el curso **MSC-2025-1**.  
 
 📌 Aquí podrás encontrar:  
-✅ Archivos y materiales de estudio.  
-✅ Tareas organizadas por unidades.  
-✅ Código y proyectos del curso.  
+📊 Archivos y materiales de estudio.  
+💻 Tareas organizadas por unidades.  
+⚙️ Código y proyectos del curso.  
 
 💡 **¡Explora y aprovecha al máximo este repositorio!**  
 
