@@ -22,6 +22,3 @@ Bienvenidos a este espacio donde encontraremos material, tareas y recursos sobre
 **Pagina Web:** (https://peter19191.github.io/) 
 📅 **Año:** 2025  
 Se modifica abril 2025
-
-#hola
-#HOLIIIII
